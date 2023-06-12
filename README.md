@@ -1,6 +1,6 @@
 # Final Project to Alchemy University
 
-This is my final project to Ethereum Developer Bootcamp. This project executes with a simple user interface, an ICO to raise funds to a project.
+This is my final project to Ethereum Developer Bootcamp. This project executes with a simple user interface, an ICO to raise funds for a project.
 
 The contract has been deployed into Sepolia Testnet Network with address:
 
@@ -19,7 +19,7 @@ npm i - (App Folder).
 npm run dev
 ```
 
-To buy, you need Sepolia Testnet in a Wallet. To withdraw contract funds, you need to contact me to gives you the private_key of the Owner Wallet. Or just deploy the contract again in Sepolia and replace the contract address in /constants/index.js.
+To buy, you need Sepolia Testnet ETH in a Wallet. To withdraw contract funds, you need to contact me to gives you the private_key of the Owner Wallet. Or just deploy the contract again and replace the contract address in /constants/index.js.
 
 To check tests, in parent folder run:
 ```shell
